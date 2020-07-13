@@ -11,4 +11,8 @@ class CFirstHelloWorld {
 	public function printMessage(){
 		return "Hello World";
 	}
+	
+	public function printNewMessage(){
+		return "Hello All";
+	}
 }
